@@ -35,37 +35,37 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://git.new/nishant-github",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://dub.sh/nishant-linkedin",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://dub.sh/nishant-twitter",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "#",
         icon: Icons.youtube,
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:w.nishantsheoran@gmail.com",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
